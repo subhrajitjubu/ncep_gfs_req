@@ -5,6 +5,7 @@ Download and preprocess NCEP GFS 0.25° atmospheric forecast data from NOAA usin
 ## Overview
 
 This package provides utility functions to directly download and preprocess Global Forecast System (GFS) 0.25-degree resolution data from the NOAA NOMADS server. It supports extraction of pressure-level and surface-level variables for specific forecast hours, structured into usable `xarray.Dataset` objects.
+Inspiredby : noaa-gfs-js anf getgfs 
 
 ## Features
 
