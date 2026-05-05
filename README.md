@@ -1,3 +1,9 @@
+#update (05-05-2026)
+As OPENDAP service is being discontinued on NOAA side this packge is broken.
+see https://nomads.ncep.noaa.gov/dods/
+
+
+
 # ncep-data-req
 
 Download and preprocess NCEP GFS 0.25° atmospheric forecast data from NOAA using ASCII interface.
